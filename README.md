@@ -1,3 +1,6 @@
 # euroGameWindows
-To Use This, download the zip called DownloadME and unzip it somewhere, then launch RTSEuroDraft.
-To Quit Alt+Tab Out then quit it.
+To Use This, download the correct zip for you platform, be it windows or mac.
+Place the zip in a folder on your desktop or in a similar folder
+Unzip it
+On windows launch launch the application called RTSEuroDraft
+On mac just launch the app you unzipped
